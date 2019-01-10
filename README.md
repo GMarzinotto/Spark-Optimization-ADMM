@@ -15,12 +15,10 @@ using 2 different problems
 - Logistic Regression with Lasso Regularization
 
 
------
-
-# How to use it ?
+## How to use it ?
 
 run it with `sbt run`
-
+I've been unable to upload the train files since they are several Gb in size. I'll try to come with a solution in the near future
 
 -----
 
