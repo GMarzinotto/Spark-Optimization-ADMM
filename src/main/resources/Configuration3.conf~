@@ -1,0 +1,12 @@
+admmConfiguration{
+    blockheight		= 1000
+    maxiters      		= 100
+    rho				= 0.01
+    rhoCorrectionFactor 	= 2.0
+    rhoCorrectionMu		= 10.0
+    abstol			= 1e-10
+    reltol			= 1e-10
+    alpha			= 1.0
+    numberOfCorrectionsLBFGS	= 7
+    lowerBoundLBFGSres		= 0.00000001
+}
